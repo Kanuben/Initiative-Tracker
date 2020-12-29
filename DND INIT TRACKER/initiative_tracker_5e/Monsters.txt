@@ -1,0 +1,4 @@
+﻿Purple Worm.-2.18
+UNKNOWN.0.0
+Goblin.2.15
+Giant Spider.3.14

@@ -1,0 +1,10 @@
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\bin\Debug\initiative_tracker_5e.exe.config
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\bin\Debug\initiative_tracker_5e.exe
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\bin\Debug\initiative_tracker_5e.pdb
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\obj\Debug\initiative_tracker_5e.csprojAssemblyReference.cache
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\obj\Debug\initiative_tracker_5e.Form1.resources
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\obj\Debug\initiative_tracker_5e.Properties.Resources.resources
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\obj\Debug\initiative_tracker_5e.csproj.GenerateResource.cache
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\obj\Debug\initiative_tracker_5e.csproj.CoreCompileInputs.cache
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\obj\Debug\initiative_tracker_5e.exe
+C:\Users\Kanuben\Desktop\DND INIT TRACKER\initiative_tracker_5e\obj\Debug\initiative_tracker_5e.pdb
